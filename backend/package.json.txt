@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0",
+    "redis": "^4.6.13",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^9.0.1",
+    "cors": "^2.8.5"
+  }
+}
